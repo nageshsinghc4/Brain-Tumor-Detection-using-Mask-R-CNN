@@ -6,5 +6,11 @@ In the field of medicine, medical image analysis and processing play a vital rol
 
 we are going to build a Mask R-CNN model capable of detecting tumours from MRI scans of the brain images.
 
+![sample input images](https://github.com/nageshsinghc4/Brain-Tumor-Detection-using-Mask-R-CNN/blob/master/Screenshot%202020-03-18%20at%2012.07.05%20AM.png)
+
+
+
+![sample input images](https://github.com/nageshsinghc4/Brain-Tumor-Detection-using-Mask-R-CNN/blob/master/Screenshot%202020-03-18%20at%2012.07.26%20AM.png)
+
 To follow the code step by step refer this medium article.
 https://medium.com/@nageshsinghchauhan/brain-tumor-detection-using-mask-r-cnn-1ac586e1274
