@@ -12,5 +12,4 @@ we are going to build a Mask R-CNN model capable of detecting tumours from MRI s
 
 ![sample input images](https://github.com/nageshsinghc4/Brain-Tumor-Detection-using-Mask-R-CNN/blob/master/Screenshot%202020-03-18%20at%2012.07.26%20AM.png)
 
-To follow the code step by step refer this article.
-https://www.theaidream.com/post/brain-tumor-detection-using-mask-r-cnn
+To follow the code step by step refer [this article](https://www.theaidream.com/post/brain-tumor-detection-using-mask-r-cnn).
